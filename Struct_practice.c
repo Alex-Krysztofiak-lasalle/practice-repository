@@ -8,8 +8,9 @@
 int main(){
 
     struct fraction fract1, fract2;
-
-    fract1.numerator = 22;
+    
+    //new comment
+    fract1.numerator = 2200;
     fract1.denominator = 7;
     fract2 = fract1;
 
