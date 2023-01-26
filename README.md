@@ -1,2 +1,2 @@
 # practice-repository
-Just a practice system
+Just practice
